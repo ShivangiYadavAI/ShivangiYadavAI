@@ -18,7 +18,7 @@ and **Artificial intelligence**.I love exploring data,finding patterns ,and lear
 
  Tech Stack & skills (learning and practicing)
  
--**languages:** python,sql
+-**languages:** python,sql,java
 
 -**libraries /Tools:** Numpy pandas ,VS Code , jupyter Notebook, Anaconda
 
