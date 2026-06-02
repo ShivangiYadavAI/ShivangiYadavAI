@@ -1,16 +1,18 @@
-## Hi there 👋
+# hi there ,I am shivangi Yadav!
 
-<!--
-**ShivangiYadavAI/ShivangiYadavAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an** MCA Student**
+passionate about learning and building solutions**Data science**
+and **Artificial intelligence**.I love exploring data,finding patterns ,and learning how intelligent systems work.
 
-Here are some ideas to get you started:
+### About Me
+Currently pursuing my "Master of Computer Applications (MCA)"
+Aiming to become a professional "Data scientist"and "ML Engineer".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in solving real-world problems using data and smart algorithms.
+
+ Tech Stack & skills (learning and practicing)
+-**languages:** python,sql
+-**libraries /Tools:** Numpy pandas ,VS Code , jupyter Notebook, Anaconda
+-**core interests:** Data science,Machine Learning
+
+"The best way to predict the future is to create it ."
